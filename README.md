@@ -20,4 +20,4 @@ $ cd your_project_folder_name
 
 3. Using input form at task 1, try to record some report into the sheet database.
 
-4. Coming soon...
+4. Coming soon...# vuejs-training-daily-report
